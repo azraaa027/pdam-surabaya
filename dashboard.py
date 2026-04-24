@@ -12,7 +12,7 @@ import os
 st.set_page_config(page_title="Dashboard PDAM - Subzona 215", layout="wide")
 
 st.markdown("<h1 style='text-align: center; color: #2c3e50;'>💧 Interaktif Dashboard PDAM - Subzona 215</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #7f8c8d;'>Komparasi Geospasial: Volume Air (m³) vs Tagihan (Rp)</p>", unsafe_allow_html=True)
+#st.markdown("<p style='text-align: center; color: #7f8c8d;'>Komparasi Geospasial: Volume Air (m³) vs Tagihan (Rp)</p>", unsafe_allow_html=True)
 st.divider()
 
 # ==========================================
