@@ -122,7 +122,7 @@ col_m1.metric("💧 Total Volume Air", f"{int(total_pakai):,} m³".replace(',', 
 col_m2.metric("💰 Total Tagihan", f"Rp {int(total_rp):,}".replace(',', '.'))
 
 # Menampilkan hasil estimasi ID Unik
-col_m3.metric("👥 Estimasi ID Unik", f"{int(total_id_unik):,}".replace(',', '.'))
+col_m3.metric("👥 Estimasi Pelanggan PDAM", f"{int(total_id_unik):,}".replace(',', '.'))
 
 col_m4.metric("🏷️ Harga Rata-rata / m³", f"Rp {int(rata_harga):,}".replace(',', '.'))
 
